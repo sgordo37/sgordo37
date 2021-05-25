@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Skylar Gordon (he/him pronouns)
+- 👀 I’m interested in technology, genealogy, and star wars
+- 🌱 I’m currently learning python [starting 06/07/2021]
+- 💞️ I’m not quite ready to collaborate on much, check back in a few months.
+- 📫 I'm reachable [here](mailto:sgordo37@mywvm.wvm.edu?subject=I%20found%20you%20on%20Github)
